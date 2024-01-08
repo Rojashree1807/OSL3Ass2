@@ -1,0 +1,6 @@
+E:\Phase3 Assignment\Ass2\UnitTestProjectAss2\AuthenticationLib\bin\Debug\AuthenticationLib.dll
+E:\Phase3 Assignment\Ass2\UnitTestProjectAss2\AuthenticationLib\bin\Debug\AuthenticationLib.pdb
+E:\Phase3 Assignment\Ass2\UnitTestProjectAss2\AuthenticationLib\obj\Debug\AuthenticationLib.csproj.AssemblyReference.cache
+E:\Phase3 Assignment\Ass2\UnitTestProjectAss2\AuthenticationLib\obj\Debug\AuthenticationLib.csproj.CoreCompileInputs.cache
+E:\Phase3 Assignment\Ass2\UnitTestProjectAss2\AuthenticationLib\obj\Debug\AuthenticationLib.dll
+E:\Phase3 Assignment\Ass2\UnitTestProjectAss2\AuthenticationLib\obj\Debug\AuthenticationLib.pdb
